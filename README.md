@@ -8,3 +8,9 @@
 * Pull Request
 * Merge
 * Commit
+### Commands
+1. Git status
+2. Git add
+3. Git Commit
+4. Push
+5. Pull
